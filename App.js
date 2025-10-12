@@ -167,7 +167,7 @@ const App = () => {
           ListHeaderComponent={
             <>
               <View style={globalStyle.header}>
-                <Title title={'Let"s Explore1'} />
+                <Title title={'Let"s Explore11'} />
 
                 <TouchableOpacity style={globalStyle.messageIcon}>
                   <FontAwesomeIcon
